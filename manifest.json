@@ -1,7 +1,7 @@
 {
   "name": "darkmode",
   "vendor": "street47",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "title": "Dark Mode",
   "description": "Dark Mode in Shelf",
   "vtexComponentsEnabled": true,
